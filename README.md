@@ -1,16 +1,14 @@
-### Hi there 👋
+# Acá econtraras una prueba de Gihub Pages
+Use un editor de [ README](https://pandao.github.io/editor.md/en.html) para poder contarles en este archivo de que trata mi repo y mi pruba de [GitHub Pages](https://pages.github.com/) 
 
-<!--
-**cquiladiaz/cquiladiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "You cannot preserve something that you don't know exist"
+> - Ivan Mikolji 
 
-Here are some ideas to get you started:
+## En este repositorio encontrarás:
+* Html muy básico
+* CSS muy avanzado, nah mentira CSS menos que basico XD
+* La mejor de las voluntades para aprender y mejorar
+* Horas culo garantizadas
+* Los primeros pasos de un desarrolador web 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Te dejo un amable recordatorio: **Este readme.md es un chiste interno**.  Diseñado para implentar lo aprendido hasta la fecha. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a tomar el [**curso **](https://platzi.com/cursos/git-github/ "a ver el curso") profesional de Git y GitHub.
