@@ -1,5 +1,5 @@
 # Acá econtraras una prueba de Gihub Pages
-Use un editor de [ README](https://pandao.github.io/editor.md/en.html) para poder contarles en este archivo de que trata mi repo y mi pruba de [GitHub Pages](https://pages.github.com/) 
+Use un editor de [ README](https://pandao.github.io/editor.md/en.html) para poder contarles en este archivo de que trata mi repositorio y mi pruba de [GitHub Pages](https://pages.github.com/) 
 
 > "You cannot preserve something that you don't know exist"
 > - Ivan Mikolji 
